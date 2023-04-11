@@ -1,0 +1,50 @@
+.column {
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+.header {
+    line-height: 12px;
+}
+
+.header h1 {
+    font-size: 32px;
+}
+
+.form {
+    display: grid;
+    place-content: center;
+    width: fit-content;
+    text-align: left;
+    margin-top: 32px;
+}
+
+input {
+    width: 350px;
+    padding: 6px 8px;
+    margin: 8px 0px;
+    color: grey;
+    outline: none;
+}
+
+.button {
+    margin: 12px 0;
+    padding: 8px 0;
+    text-align: center;
+    background-color: rgb(64, 64, 219);
+    color: aliceblue;
+    border: none;
+    shadow:none;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background-color: rgb(99, 99, 226);
+}
+
+#result {
+    margin-top: 24px;
+    text-align: left;
+}
