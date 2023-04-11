@@ -27,4 +27,4 @@ let hasil = (weight/(height/100)**2).toPrecisio(3)
 ### Hasil
 
 <hr>
-![hasil](https://github.com/MaulanaYusuf20/BMI-Calculator/tree/master/assets/Images/Screenshoot.png?raw=true)">
+<image src="https://github.com/MaulanaYusuf20/BMI-Calculator/tree/master/assets/Images/Screenshoot.png" />
